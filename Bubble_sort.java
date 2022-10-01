@@ -32,11 +32,6 @@ public class Bubble_sort
             System.out.println(array[i]);
         }
         System.out.println();
-
-
-        
-        
-
         
     }
     
